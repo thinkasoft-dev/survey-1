@@ -41,5 +41,5 @@
         'security/evaluation_security.xml',
     ],
     'website': 'www.adhoc.com.ar',
-    'installable': True,
+    'installable': False,
 }
